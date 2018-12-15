@@ -1,7 +1,11 @@
 # ProjectFPH
-Project FPH. A Facebook Account Hacker(Not really) Phishing Script.
+Project FPH. A Facebook Account Hacker (Not really) Phishing Script.
+#### Created for Educational Purposes only!
 
 # How to use
-You can test how it works, Just hook it up to your Localhost Web Server and test it out. If you tend to use this for blackhat purposes I'm not responsible.
+Upload to your Web Server for Testing.
 
-Generates Logs as .txt file
+# Logging
+- Log to .txt File.
+- Email Log Delivery (Only works with Web Server and not on LAN)
+
