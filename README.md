@@ -8,7 +8,7 @@ Upload to your Web Server for Testing.
 ###### Before Upload, 
 - Edit this line in login.php
 
-```
+```php
 $client_mail = "YOUR EMAIL HERE";
 ```
 
